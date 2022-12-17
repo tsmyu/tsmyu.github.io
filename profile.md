@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 title: Yu Teshima
 canonical_url: "https://tsmyu.github.io/profile"
-
 ---
 
 ## CURRENT POSITION
