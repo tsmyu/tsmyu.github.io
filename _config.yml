@@ -20,7 +20,7 @@ title                    : "Research Page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YU TESHIMA"
-description              : "An amazing website."
+description              : "This HP is for me and people who are interested in my research"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Yu Teshima"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PostDoc at Nagoya University"
+  bio              : "Ph.D (Engineering) | echolocation bats"
   location         : "Japan"
   email            : "yuteshima18[at]gmail.com"
   links:
