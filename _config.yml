@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Teshima"
+title                    : "Research Page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YU TESHIMA"
@@ -111,7 +111,7 @@ author:
   email            : "yuteshima18[at]gmail.com"
   links:
     - label: "Google Scholar"
-      icon: "fas fa-brands fa-google"
+      icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=i1W_QkoAAAAJ&hl=en&citsig=AMD79oqOccXHsqAl6OMammHa4CS0sKvXyg"
     - label: "reserchmap"
       icon: "fas fa-fw fa-link"
@@ -218,9 +218,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Tokyo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -230,6 +230,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -237,8 +239,9 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
-
+  - jekyll-archives
 
 # Archives
 #  Type
