@@ -1,19 +1,20 @@
 ---
 layout: archive
 author_profile: true
-title: Yu Teshima
+title: Paper
 canonical_url: "https://tsmyu.github.io/research"
 ---
 
-## Analysis of echolocation behavior of bats in “echo space” using acoustic simulation
-- [x] Researcher (Graduate School of Informatics, Nagoya University)
-- [x] Collaborative researcher (Faculty of Life and Medical Sciences, Doshisha University)
+## [Analysis of echolocation behavior of bats in “echo space” using acoustic simulation](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01253-y)
 
-## Reconstruction of echoes reaching bats in flight from arbitrary targets by acoustic simulation
-- [x] R&D Engineer - Ricoh Company, Ltd. 2016/4 - 2021/8
-- [x] Internship - NTT 2015/8
+### コウモリがエコーから知覚する空間に関する研究
 
-## Effect of bat pinna on sensing using acoustic finite difference time domain simulation
-- [x] Ph.D. (Engineering) - Doshisha University 2019/4 - 2022/9
-- [x] M.S. (Engineering) - Doshisha University 2014/4 - 2016/9
-- [x] B.S. (Engineering) - Doshisha University 2009/4 - 2014/3
+- 本研究では、放射パルス・飛行軌跡を計測する行動実験と、音響シミュレーションを組み合わせることで、コウモリの両耳に届く反響音（エコー）列を算出する方法を提案した。本手法を、3 枚の板で構成された障害物空間をコウモリが S 字に飛行する際の行動を計測し、未知空間（初回飛行）と既知空間（12 回目の飛行）におけるそれぞれのデータに適用した。その結果、世界で初めてエコーからコウモリが知覚する空間の可視化に成功し、算出したエコー源が構成している障害物空間は、実際の障害物空間とは異なること，また回避行動をする上で重要な箇所のみで構成されていることを明らかにした（図１）。さらに既知空間においては、エコー源が障害物である板の内側のエッジ部分により集中しており、コウモリが学習により空間を効率的に把握するよう適応的に行動していることがわかった。
+
+## [Reconstruction of echoes reaching bats in flight from arbitrary targets by acoustic simulation](https://asa.scitation.org/doi/full/10.1121/10.0009916)
+### コウモリの飛行中の注視対象の推移に関する研究
+- 行動中の動物が注意を向けている対象の解明は、その個体の行動中の“考え”を推察可能とする重要な情報である。コウモリが放射したパルスにより周囲環境から反射するエコーは、各対象物から複数同時に重複して返ってくる。さらに、各エコーは、各対象物との相対速度に応じてドップラー効果によりそれぞれ周波数が変調している。キクガシラコウモリは、注視対象からのエコーの周波数のみを、自身の聴覚感度の高い周波数帯域に常に合致させるようパルスの周波数を調整する。そのため、聴覚感度の高い帯域内のエコーが明らかとなれば、コウモリは、そのエコーの起源となる対象物に注意を向けていることが判明する。しかし、これまで、解析対象となるエコー計測は困難であった。本研究では、音響シミュレーションに移動音源・移動受信点を実装し、ドップラー効果の影響を含むエコーの精密な算出を可能とした。そして４つの壁に囲まれた空間をコウモリが旋回飛行する際の行動データを計測し、音響シミュレーションによって各壁からのエコーを独立に算出した。その結果、エコー周波数が聴覚感度の高い帯域に合致する壁が旋回とともに移り変わり、飛行中コウモリが旋回先を“先読み”するように注視対象を推移させていることを初めて発見した。
+
+## [Effect of bat pinna on sensing using acoustic finite difference time domain simulation](https://asa.scitation.org/doi/full/10.1121/10.0011737)
+### コウモリの耳介形状がエコーに与える影響に関する研究
+- コウモリにとっての耳は、環境の情報を取得する受信器の役割を持つ重要な器官であり、特に耳介や耳珠は種によって異なる形をしている。これまで耳介の動きや耳珠の有無がエコーにどのような影響を与えているのかは不明であった。そこで本研究では、X線CTで撮影したコウモリの頭部の3次元デジタルモデルを音響シミュレーション空間内に導入し、頭部形状をシミュレーション空間において自在に変形することで、耳珠を持つ種（ユビナガコウモリ）と持たない種（キクガシラコウモリ）を対象に調査した。その結果、耳珠を持たないキクガシラコウモリでは、両耳間のエコー音圧の差を利用し、仰角方向の音源定位が行えることを耳介の動きを模倣したシミュレーションによって明らかにした。一方、耳珠をもつユビナガコウモリでは、エコーの音圧が著しく減少する周波数（ノッチ）が仰角に応じて変化することから（耳珠を削除するとノッチが現れないことも確認）、耳珠によって生じる手がかりを仰角方向の音源定位に用いていることがわかった（図３）。このように、種によって異なる情報を使い音源定位していることなど、進化生態学的にも重要な知見を見出した。
