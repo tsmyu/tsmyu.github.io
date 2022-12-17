@@ -111,7 +111,7 @@ author:
   email            : "yuteshima18[at]gmail.com"
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-brands fa-google"
       url: "https://scholar.google.com/citations?user=i1W_QkoAAAAJ&hl=en&citsig=AMD79oqOccXHsqAl6OMammHa4CS0sKvXyg"
     - label: "reserchmap"
       icon: "fas fa-fw fa-link"
