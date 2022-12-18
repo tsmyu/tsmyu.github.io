@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive
 author_profile: true
 title: News
 canonical_url: "https://tsmyu.github.io"
@@ -22,3 +22,20 @@ canonical_url: "https://tsmyu.github.io"
 *2022/6/16*
 - JASAから論文がリリースされました。
     - [論文](https://asa.scitation.org/doi/full/10.1121/10.0011737)
+
+*2022/6/1*
+- 電子情報通信学会B-plusから解説論文（日本語）がリリースされました。
+    - [解説論文](https://www.jstage.jst.go.jp/article/bplus/16/1/16_6/_article/-char/ja/)
+
+*2022/5/9*
+- 発表した論文が米国物理学協会（AIP）のScilightに選出されました。
+    - [Scilight](https://aip.scitation.org/doi/10.1063/10.0010484)
+    - [論文](https://asa.scitation.org/doi/10.1121/10.0009916)
+
+*2022/3/24*
+- JASAから論文がリリースされました。
+    - [論文](https://asa.scitation.org/doi/10.1121/10.0009916)
+
+*2022/3/14*
+- BMC Biologyから論文がリリースされました。
+    - [論文](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01253-y)
