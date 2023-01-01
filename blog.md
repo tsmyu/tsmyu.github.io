@@ -5,4 +5,4 @@ title: Blog list
 canonical_url: "https://tsmyu.github.io/blog"
 ---
 
-#### 準備中
+#### [学振特別研究員の申請書](https://note.com/tsmyu/n/n2c617476ac72)
