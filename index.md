@@ -4,6 +4,9 @@ author_profile: true
 title: News
 canonical_url: "https://tsmyu.github.io"
 ---
+*2022/12/31*
+- blogを更新しました。
+
 *2022/12/8*
 - ASA183rd meetingにて招待講演を行いました。
     - [招待講演](https://asa.scitation.org/doi/abs/10.1121/10.0016173)
