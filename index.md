@@ -4,6 +4,10 @@ author_profile: true
 title: News
 canonical_url: "https://tsmyu.github.io"
 ---
+*2023/1/16-18*
+- Batsheva de Rothschild Conference on Active Sensing:From Animals to Robotsに参加しました。
+    - [学会HP](https://www.weizmann.ac.il/conferences/AS2020/)
+
 *2022/12/31*
 - blogを更新しました。
 
