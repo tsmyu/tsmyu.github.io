@@ -6,10 +6,11 @@ canonical_url: "https://tsmyu.github.io/profile"
 ---
 
 ## CURRENT POSITION
-- [x] Researcher (Graduate School of Informatics, Nagoya University)
-- [x] Collaborative researcher (Faculty of Life and Medical Sciences, Doshisha University)
+- [x] JSPS Research Fellowship for Young Scientists (Graduate School of Informatics, Nagoya University)
 
 ## EMPLOYMENT
+- [x] Researcher - Graduate School of Informatics, Nagoya University 2022/10 - 2023/3
+- [x] Collaborative researcher - Faculty of Life and Medical Sciences, Doshisha University 2022/9 - 2023/3
 - [x] R&D Engineer - Ricoh Company, Ltd. 2016/4 - 2021/8
 - [x] Internship - NTT 2015/8
 

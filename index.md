@@ -4,6 +4,14 @@ author_profile: true
 title: News
 canonical_url: "https://tsmyu.github.io"
 ---
+*2023/4/1*
+- 学振PDとして名古屋大学大学院情報学研究科に所属しました。
+    - [武田研究室](https://takedalab.g.sp.m.is.nagoya-u.ac.jp/)
+
+*2023/2/17*
+- arXivにヒトがコウモリのようなエコーロケーションができるのか、またどのような戦略で物体形状を把握するのかを検証するためのeye-trackerと音響シミュレーションを組み合わせたシステムを公開しました。
+    - [arXiv](https://arxiv.org/abs/2302.08794)
+
 *2023/1/16-18*
 - Batsheva de Rothschild Conference on Active Sensing:From Animals to Robotsに参加しました。
     - [学会HP](https://www.weizmann.ac.il/conferences/AS2020/)
