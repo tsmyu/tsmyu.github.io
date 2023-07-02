@@ -4,6 +4,9 @@ author_profile: true
 title: News
 canonical_url: "https://tsmyu.github.io"
 ---
+*2023/7/1*
+- 特任研究員として[海洋研究開発機構（JAMSTEC）](https://www.jamstec.go.jp/j/)に着任しました。
+
 *2023/4/1*
 - 学振PDとして名古屋大学大学院情報学研究科に所属しました。(受け入れ研究者：[藤井准教授](https://sites.google.com/view/keisuke198619jp/))
     - [武田研究室](https://takedalab.g.sp.m.is.nagoya-u.ac.jp/)
