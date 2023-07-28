@@ -4,11 +4,18 @@ author_profile: true
 title: News
 canonical_url: "https://tsmyu.github.io"
 ---
+*2023/9/7-8*
+- 第30回海洋工学シンポジウムにてJAMSTEC中西賞の受賞講演とパネルディスカッションに参加します。
+    - [第30回海洋工学シンポジウム](http://www.oesymposium.com/)
+    - 受賞対象研究:[FDTDシミュレーションを用いたエコー復元によるコウモリの周回飛行中の注意推定](https://www.masj.jp/meeting/past_general/rp-20220526_general/rp-20220526_program/)
+
 *2023/7/1*
 - 特任研究員として[海洋研究開発機構（JAMSTEC）](https://www.jamstec.go.jp/j/)に着任しました。
+    - （非公式）上司：[川口慎介](https://sites.google.com/view/kawagucciweb2/home)
 
 *2023/4/1*
-- 学振PDとして名古屋大学大学院情報学研究科に所属しました。(受け入れ研究者：[藤井准教授](https://sites.google.com/view/keisuke198619jp/))
+- 学振PDとして名古屋大学大学院情報学研究科に所属しました。
+    - 受け入れ研究者：[藤井准教授](https://sites.google.com/view/keisuke198619jp/)
     - [武田研究室](https://takedalab.g.sp.m.is.nagoya-u.ac.jp/)
 
 *2023/2/17*
