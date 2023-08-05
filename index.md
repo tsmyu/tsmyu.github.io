@@ -11,7 +11,7 @@ canonical_url: "https://tsmyu.github.io"
 
 *2023/7/1*
 - 特任研究員として[海洋研究開発機構（JAMSTEC）](https://www.jamstec.go.jp/j/)に着任しました。
-    - （非公式）上司：[川口慎介](https://sites.google.com/view/kawagucciweb2/home)
+    - （非公式）上司：[川口慎介](https://sites.google.com/view/kawagucciweb2/home)主任研究員
 
 *2023/4/1*
 - 学振PDとして名古屋大学大学院情報学研究科に所属しました。
