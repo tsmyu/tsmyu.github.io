@@ -9,6 +9,10 @@ canonical_url: "https://tsmyu.github.io"
     - [第30回海洋工学シンポジウム](http://www.oesymposium.com/)
     - 受賞対象研究:[FDTDシミュレーションを用いたエコー復元によるコウモリの周回飛行中の注意推定](https://www.masj.jp/meeting/past_general/rp-20220526_general/rp-20220526_program/)
 
+*2023/8/18*
+- JPSJ(Journal of the Physical Society of Japan)にてInvited Review論文が公開されました。SPECIAL TOPICS: Advances in the Physics of Biofluid Locomotionの中での論文です。
+    - [論文](https://journals.jps.jp/doi/full/10.7566/JPSJ.92.121001)
+
 *2023/7/1*
 - 特任研究員として[海洋研究開発機構（JAMSTEC）](https://www.jamstec.go.jp/j/)に着任しました。
     - （非公式）上司：[川口慎介](https://sites.google.com/view/kawagucciweb2/home)主任研究員
