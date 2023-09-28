@@ -4,9 +4,13 @@ author_profile: true
 title: News
 canonical_url: "https://tsmyu.github.io"
 ---
+*2023/9/23*
+- [ACT-X 次世代AIを築く数理・情報科学の革新](https://www.jst.go.jp/kisoken/act-x/application/2023/230919/230919.html)領域に「音響世界に住む生物の生態解明に向けた環世界モデルの構築」という研究が採択されました。
+
 *2023/9/7-8*
-- 第30回海洋工学シンポジウムにてJAMSTEC中西賞の受賞講演とパネルディスカッションに参加します。
+- 第30回海洋工学シンポジウムにてJAMSTEC中西賞の受賞講演とパネルディスカッションに参加しました。
     - [第30回海洋工学シンポジウム](http://www.oesymposium.com/)
+    - [記事](https://www.doshisha.ac.jp/news/detail/001-b95yew.html)
     - 受賞対象研究:[FDTDシミュレーションを用いたエコー復元によるコウモリの周回飛行中の注意推定](https://www.masj.jp/meeting/past_general/rp-20220526_general/rp-20220526_program/)
 
 *2023/8/18*
