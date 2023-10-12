@@ -4,6 +4,10 @@ author_profile: true
 title: News
 canonical_url: "https://tsmyu.github.io"
 ---
+*2023/10/7-8*
+- 第66回自動制御連合講演会において、「模倣学習によるエコーロケーションコウモリの飛行ナビゲーション予測」という題目の研究発表を行いました。
+    - [第66回自動制御連合講演会](https://rengo66.sice.jp/)
+
 *2023/9/23*
 - [ACT-X 次世代AIを築く数理・情報科学の革新](https://www.jst.go.jp/kisoken/act-x/application/2023/230919/230919.html)領域に「音響世界に住む生物の生態解明に向けた環世界モデルの構築」という研究が採択されました。
 
