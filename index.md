@@ -8,6 +8,14 @@ canonical_url: "https://tsmyu.github.io"
 - Royal Society Open Scienceから新しい論文が出ました。
     - [Discrimination of object information by bat echolocation deciphered from acoustic simulations](https://royalsocietypublishing.org/doi/10.1098/rsos.231415)
 
+*2023/12/15*
+- Journal of the Physical Society of JapanからInvited review論文が出ました。
+    - [Acoustic Navigation of Echolocating Bats during Aerial Flight](https://doi.org/10.7566/jpsj.92.121001)
+
+*2023/10/27- 11/1*
+- The XXVIII International Bioacoustics Congressにおいて、「Ability of bats to discriminate objects with different blind spot information」という題目の研究発表を行いました。
+    - [The XXVIII International Bioacoustics Congress](https://2023.ibac.info/)
+    
 *2023/10/7-8*
 - 第66回自動制御連合講演会において、「模倣学習によるエコーロケーションコウモリの飛行ナビゲーション予測」という題目の研究発表を行いました。
     - [第66回自動制御連合講演会](https://rengo66.sice.jp/)
