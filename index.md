@@ -4,6 +4,10 @@ author_profile: true
 title: News
 canonical_url: "https://tsmyu.github.io"
 ---
+*2024/1/24*
+- Royal Society Open Scienceから新しい論文が出ました。
+    - [Discrimination of object information by bat echolocation deciphered from acoustic simulations](https://royalsocietypublishing.org/doi/10.1098/rsos.231415)
+
 *2023/10/7-8*
 - 第66回自動制御連合講演会において、「模倣学習によるエコーロケーションコウモリの飛行ナビゲーション予測」という題目の研究発表を行いました。
     - [第66回自動制御連合講演会](https://rengo66.sice.jp/)
